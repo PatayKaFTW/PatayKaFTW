@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I'm popkluva</h1>
+<h3 align="center">A student wishing to learn computer science in the future</h3>
+<h3 align="center">Currently learning Python and Lua
 
 <!--
 **PatayKaFTW/PatayKaFTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
