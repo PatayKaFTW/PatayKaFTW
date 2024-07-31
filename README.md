@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm popkluva</h1>
-<h3 align="center">A student wishing to learn computer science in the future</h3>
+<h3 align="center">A student wishing to do computer science in the future</h3>
 <h3 align="center">Currently learning Python and Lua
 
 <!--
